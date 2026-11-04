@@ -1,5 +1,5 @@
-body { 
-    text-align: center;     font-family: Arial; 
-    background-color: lightblue; 
+function showMessage() {   
+    alert("Welcome, Student!"); 
 } 
  
+
